@@ -14,7 +14,7 @@
 [![LiteLLM](https://img.shields.io/badge/LiteLLM-Model%20Routing-7c3aed?style=flat-square)](https://github.com/BerriAI/litellm)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000000)](https://www.buymeacoffee.com/mirecekdg)
-[![PayPal](https://img.shields.io/badge/PayPal-support-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/mirecekd)
+
 
 ---
 
@@ -134,8 +134,7 @@ If you find this project useful, consider buying me a coffee!
 
 or
 
-💙 **PayPal:** https://paypal.me/mirecekd
-</div>
+[![PayPal](https://img.shields.io/badge/PayPal.Me-mirecekd-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/mirecekd)</div>
 
 ## License
 MIT
