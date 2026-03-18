@@ -49,8 +49,6 @@ a0-delegate-model/
 ├── scripts/
 │   ├── list_models.py
 │   └── delegate_prompt.py
-└── .github/
-    └── FUNDING.yml
 ```
 
 ## Requirements
@@ -126,15 +124,18 @@ It may internally use:
 
 But it should not print raw secrets back to the user.
 
-## Funding
+## Support
 
-If this project helps you, you can support it here:
+If you find this project useful, consider buying me a coffee!
 
-- ☕ **Buy Me a Coffee:** https://www.buymeacoffee.com/mirecekdg
-- 💙 **PayPal:** https://paypal.me/mirecekd
+<div align="center">
 
-GitHub funding button is configured through `.github/FUNDING.yml`.
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mirecekdg)
+
+or
+
+💙 **PayPal:** https://paypal.me/mirecekd
+</div>
 
 ## License
-
 MIT
