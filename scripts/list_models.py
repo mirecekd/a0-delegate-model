@@ -1,0 +1,1 @@
+§§include(/a0/usr/workdir/a0-delegate-model/scripts/list_models.py)
