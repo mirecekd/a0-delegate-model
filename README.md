@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-<img src="a0-delegate-model.png" alt="A0 Delegate Model" width="60%">
+<img src="img.png" alt="A0 Delegate Model" width="60%">
 </div>
 
 ---
