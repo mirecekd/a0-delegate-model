@@ -13,10 +13,15 @@
 [![Agent Zero](https://img.shields.io/badge/Agent%20Zero-Skill-blue?style=flat-square&logo=github)](https://github.com/frdel/agent-zero)
 [![LiteLLM](https://img.shields.io/badge/LiteLLM-Model%20Routing-7c3aed?style=flat-square)](https://github.com/BerriAI/litellm)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000000)](https://www.buymeacoffee.com/mirecekdg)
 
+<div align="center">
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mirecekdg) [!["PayPal.me"](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=LJ5ZF7Q9KMTRW&no_recurring=0&currency_code=USD)
+
+</div>
 
 ---
+
 
 ## What it does
 
@@ -126,15 +131,14 @@ But it should not print raw secrets back to the user.
 
 ## Support
 
-If you find this project useful, consider buying me a coffee!
+If this tool is useful to you, you can support development:
 
 <div align="center">
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mirecekdg)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mirecekdg) [!["PayPal.me"](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=LJ5ZF7Q9KMTRW&no_recurring=0&currency_code=USD)
 
-or
+</div>
 
-[![PayPal](https://img.shields.io/badge/PayPal.Me-mirecekd-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/mirecekd)</div>
 
 ## License
 MIT
